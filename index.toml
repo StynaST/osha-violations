@@ -380,11 +380,6 @@ hash = "a43bccc1cdad8e0ce5167f379c98935f7ea8117ac0bda2218b372defbc9fc985"
 metafile = true
 
 [[files]]
-file = "mods/veil-lib.pw.toml"
-hash = "0048761f999539bcd072d632867abdfaed5c040771fdff6137c4079fde59dbb2"
-metafile = true
-
-[[files]]
 file = "mods/vics-point-blank.pw.toml"
 hash = "af88dd70e1bd501b7e023c9360be355e797f6bebe7a35e9708f174a9bfde07cd"
 metafile = true
