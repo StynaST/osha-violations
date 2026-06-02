@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/config/client.json"
+hash = "f495272f5058d5c1a8e853667fee207eecc97429e3a9b81353571d929334417b"
+
+[[files]]
 file = "mods/actually-additions.pw.toml"
 hash = "cd7ad9cdb16c4c84c450bdc8040e5a42d31e9528c954951d8f676a12ee408648"
 metafile = true
