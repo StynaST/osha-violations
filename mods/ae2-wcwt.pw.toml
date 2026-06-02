@@ -1,0 +1,13 @@
+name = "AE2 WCWT"
+filename = "wcwt-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4inoel9g/versions/fCKdh9jn/wcwt-1.2.1.jar"
+hash-format = "sha512"
+hash = "22e659ce745acfaa44248043bc3684893014a0b5f6029034e49a70f377cf268571578a7a3e349bad2d83bd9f94dfa561cad63e009aab02e75115cb7ed77941dd"
+
+[update]
+[update.modrinth]
+mod-id = "4inoel9g"
+version = "fCKdh9jn"

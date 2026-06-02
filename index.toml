@@ -10,6 +10,16 @@ hash = "0bb40232f5746284ea4ef40618a989669fcb7eaa5df587a07139fe20d6e1a9f9"
 metafile = true
 
 [[files]]
+file = "mods/advancedae.pw.toml"
+hash = "281593eae2857d26522a0084f7441ce8367cea75b23832d4ddbd435fa2cb02f2"
+metafile = true
+
+[[files]]
+file = "mods/ae2-wcwt.pw.toml"
+hash = "f656a7cc612beb59b86510f51f9112de9297552c4283bcdb148af216266bc942"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
@@ -17,6 +27,16 @@ metafile = true
 [[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "f3d66527c4f82b44d9409f643332bc15f91b85f033afe147e3d8b421c0ea6d1e"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "896d14f8df7c6d3ed5b6ca292220fa87c1c305f50cbdca43034a3f0414be72ca"
+metafile = true
+
+[[files]]
+file = "mods/applied-history.pw.toml"
+hash = "9700b4c726b34d294657dee694ef0c7a18ddedf4457140308cbf944495a4dbdc"
 metafile = true
 
 [[files]]
@@ -110,6 +130,11 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/createadvanced-schematic-cannon.pw.toml"
+hash = "dbfd80aa2680521cc99f923d8da24a32c5e54b3ebc00100b7ff172b3556d5aa8"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "05871de0994068a9b36fb9baecaed301c5534f82d0e85da1b5a83ea6918309a9"
 metafile = true
@@ -187,6 +212,16 @@ metafile = true
 [[files]]
 file = "mods/evilcraft.pw.toml"
 hash = "bf668cd5f593d528b3fa208b244fbe942da8d3cb0b87304e93e7bf337e65e2da"
+metafile = true
+
+[[files]]
+file = "mods/extended-ae.pw.toml"
+hash = "0a5570c6ae3540f4b058e84f1dfee75c0b2367dbbf3578dcff927183f9df3973"
+metafile = true
+
+[[files]]
+file = "mods/extendedae-plus.pw.toml"
+hash = "d0fc127f8a7b30c16fea60cb7baca6961ef76563b41d4b3d9524c91dc2764483"
 metafile = true
 
 [[files]]
@@ -275,6 +310,11 @@ hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
 metafile = true
 
 [[files]]
+file = "mods/mega.pw.toml"
+hash = "c9f9996ced5f4abf2ab982bb2521bef1798cf1fc6d6ebc435e38075894921efe"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "0ec2ceb5602df266d2e07bdc0bc409cdd3d325a6b5136554787779cdf8057a27"
 metafile = true
@@ -287,6 +327,21 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
+metafile = true
+
+[[files]]
+file = "mods/modern-dynamics.pw.toml"
+hash = "f11712ad21bd0d5b8ff2f4867332c5f773b43b9c53f1d02fa604af6f421010de"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization-sound-addon.pw.toml"
+hash = "a73089afedfc1b46538401ad19a7286cb790b7d96ef59d2603fa535f9dfa7126"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "3792eaccd0f29d9bacc9e97cccd40b691c54439ae10c0fe362dfbf08c57000e1"
 metafile = true
 
 [[files]]
@@ -362,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "e8ec0a7577c9e3354b78cc613c2c5e6a9fd708a026869aba82d4ce7fc04bc2e7"
+metafile = true
+
+[[files]]
+file = "mods/schematicannon-processing-pattern.pw.toml"
+hash = "796d04c4b8e1b78e8b1093daa3403a0c15bfb82681063370960120a6729425db"
 metafile = true
 
 [[files]]

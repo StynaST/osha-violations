@@ -1,0 +1,13 @@
+name = "Create:Advanced Schematic Cannon"
+filename = "advancedschematicannon-1.1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pxbip2zg/versions/YFwCaElu/advancedschematicannon-1.1.2.1.jar"
+hash-format = "sha512"
+hash = "8cda4e02c368768e82e180e3fa319813bdc26530399ae58967a3f65b7cc0a8a7db15417adb5f19c220ba64f78d0b01cf94c729da3382c766e0a376cfb54fe6b5"
+
+[update]
+[update.modrinth]
+mod-id = "Pxbip2zg"
+version = "YFwCaElu"
