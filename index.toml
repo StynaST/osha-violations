@@ -306,16 +306,6 @@ hash = "711e6fc567eb2a2786c27245e13cc1ee9327c0fa43d7d4a58d0dc2436c536457"
 metafile = true
 
 [[files]]
-file = "mods/pmweather-plus.pw.toml"
-hash = "bebb51f6d31348e312db89981b11d027afe4420e173fd355b9f63041f385c4ce"
-metafile = true
-
-[[files]]
-file = "mods/protomanlys-weather.pw.toml"
-hash = "5074c1853c6fc522e39014be88c3badaf4e2ad975030f70118bcf8adefd71eb2"
-metafile = true
-
-[[files]]
 file = "mods/pv-addon-groups.pw.toml"
 hash = "7a51b041979e7584c922ae8aefdb6de7b1a4d3ac443d16d594a4508ff6ac41a0"
 metafile = true
