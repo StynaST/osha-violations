@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
+hash = "3434f9ec77694349b7b83e79ef179be25c8eeae83049a75d154098edb5a19889"
 metafile = true
 
 [[files]]
@@ -153,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/endrem.pw.toml"
 hash = "db22718a1efaf2c691cf3bdddc61b0b06bedff7cb0722aa8b1bdf4f095d116cc"
+metafile = true
+
+[[files]]
+file = "mods/epic-terrain_compatible.pw.toml"
+hash = "4bf7d690bf4bdcca3f48a33002ef1a5d509674fc95cb32d67d6fcf60fabfead6"
 metafile = true
 
 [[files]]
@@ -378,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/wind-meter.pw.toml"
 hash = "a23af1ac504fb363e93e5415028b18d4d777077ee54a3284dbf50f2f947ed5b3"
+metafile = true
+
+[[files]]
+file = "mods/worldgenfeaturefix.pw.toml"
+hash = "a5b9f24465e56de45b23cbf2036ad0c47d27abb3485a45e18193bdace79a85f0"
 metafile = true
 
 [[files]]
