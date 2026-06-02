@@ -376,11 +376,6 @@ hash = "af88dd70e1bd501b7e023c9360be355e797f6bebe7a35e9708f174a9bfde07cd"
 metafile = true
 
 [[files]]
-file = "mods/wind-meter.pw.toml"
-hash = "a23af1ac504fb363e93e5415028b18d4d777077ee54a3284dbf50f2f947ed5b3"
-metafile = true
-
-[[files]]
 file = "mods/worldgenfeaturefix.pw.toml"
 hash = "a5b9f24465e56de45b23cbf2036ad0c47d27abb3485a45e18193bdace79a85f0"
 metafile = true
