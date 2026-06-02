@@ -130,11 +130,6 @@ hash = "f943c276fcebd5542c4b3dda60634728e1a70212f15dc9af8f0b7b9bb40199db"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "778c42263b2ba7c9e73553bdcd70f48a3e485ba52b6a83474160d48be696b71f"
-metafile = true
-
-[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
 metafile = true
@@ -280,11 +275,6 @@ hash = "e16a311d5197e286f0955f2ebfb46a72d711050e589224f60fcb8e931eb3a386"
 metafile = true
 
 [[files]]
-file = "mods/monocle-iris.pw.toml"
-hash = "5c55ae702f7ba33591e458deda0d5f769d8bfb8adbe249f212cd603d6c28f04b"
-metafile = true
-
-[[files]]
 file = "mods/morphv2.pw.toml"
 hash = "1b97670887c94e6f4f11680de35a7ccb1c2229dd05a1f3bcda416201feb027c5"
 metafile = true
@@ -352,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "e8964aa3252bc02d75abbeac52b4d8deb621e56bc6b549e3127b0f2bc4a76fc2"
 metafile = true
 
 [[files]]
