@@ -340,13 +340,18 @@ hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
 metafile = true
 
 [[files]]
+file = "mods/sable-new-sodium-compat.pw.toml"
+hash = "bf7813d122ef675aeddc4c3f2edb448e019fb5a9dbeb60be50e1bc8f60fafd3a"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
-hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
+hash = "e8ec0a7577c9e3354b78cc613c2c5e6a9fd708a026869aba82d4ce7fc04bc2e7"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e8964aa3252bc02d75abbeac52b4d8deb621e56bc6b549e3127b0f2bc4a76fc2"
+hash = "d498ace9debedfbab647065dbc00943472be244bf76d8d4f8ed6fc197e800d5e"
 metafile = true
 
 [[files]]
@@ -377,6 +382,11 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "a43bccc1cdad8e0ce5167f379c98935f7ea8117ac0bda2218b372defbc9fc985"
+metafile = true
+
+[[files]]
+file = "mods/veil-lib.pw.toml"
+hash = "0048761f999539bcd072d632867abdfaed5c040771fdff6137c4079fde59dbb2"
 metafile = true
 
 [[files]]
