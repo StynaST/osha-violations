@@ -1,0 +1,13 @@
+name = "Osha Violations"
+author = "StynaST"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3080f4c53b5ac08ecbba0fcaedcdb67b1543edaa995cc1fdd65e003ab7770db1"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"

@@ -1,0 +1,13 @@
+name = "pv-addon-lavaplayer-lib"
+filename = "pv-addon-lavaplayer-lib-1.2.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kx9d4acU/versions/JyxkTPor/pv-addon-lavaplayer-lib-1.2.1.jar"
+hash-format = "sha512"
+hash = "9d70cba828db2e4a23140d0722a3958adaf2b587a456d79938366fd819c6dec20ac1955e66db8642c72cb856249018e8ffd607f6f651cf2ab6721d841f6b1450"
+
+[update]
+[update.modrinth]
+mod-id = "Kx9d4acU"
+version = "JyxkTPor"

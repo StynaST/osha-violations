@@ -1,0 +1,13 @@
+name = "MorphV2"
+filename = "morph-0.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1fa487a76351c6914f8f2d6744742c9a07cbeba6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7932378
+project-id = 1481349
