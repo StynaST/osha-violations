@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".editorconfig"
-hash = "e3146b348c6eda13df225e5ebcfe1a2b861af1025d2e59016895b33a81fc7a3f"
-
-[[files]]
 file = "kubejs/config/client.json"
 hash = "d8b733a02339a5cfa601f9da2c465633bed22cacbde37fe5bbb2e3b27897e5a8"
 
