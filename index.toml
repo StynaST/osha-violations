@@ -70,8 +70,18 @@ hash = "7dfcb98086a3504e8ed24f9f64528a2435fdc19f8fb232d99aa46b7dc2c3aacb"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "34cb9102708e368a116c6b11e98728e0c4b471a6afdf7ce9602f93cb75174509"
+metafile = true
+
+[[files]]
 file = "mods/construction-wand-kots.pw.toml"
 hash = "7b3e67d8aaffdf29c287d6e371fc41d6d488d2085c43f640c2cb28fc3968d032"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
@@ -215,6 +225,11 @@ hash = "15dc3b581cc649acea7f375427dfd4116b29d724be1092c8ca306e968a0a4a98"
 metafile = true
 
 [[files]]
+file = "mods/full-brightness-toggle.pw.toml"
+hash = "26569c9601e7490fff75ed2f556badced7f25177bebd4fad0c8789f386a4672a"
+metafile = true
+
+[[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "1faf48b7c3887b3b9ccae6999c9ebb36e9424009b8d3be5c4275aa7c0f139bcd"
 metafile = true
@@ -342,6 +357,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "e8ec0a7577c9e3354b78cc613c2c5e6a9fd708a026869aba82d4ce7fc04bc2e7"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
