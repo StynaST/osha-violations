@@ -75,6 +75,11 @@ hash = "34cb9102708e368a116c6b11e98728e0c4b471a6afdf7ce9602f93cb75174509"
 metafile = true
 
 [[files]]
+file = "mods/colossal-chests.pw.toml"
+hash = "b876ff9b1b0853535ab3029cf5be942d2553c29782ccb0d7802567f7567faced"
+metafile = true
+
+[[files]]
 file = "mods/construction-wand-kots.pw.toml"
 hash = "7b3e67d8aaffdf29c287d6e371fc41d6d488d2085c43f640c2cb28fc3968d032"
 metafile = true
@@ -367,6 +372,21 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "7a0545b3c17ba1e0856e271ab483f53a4376e8af76c1e36ba09b8805ca3a64b6"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "a17a6d46d8be7a4aafd1c614073b89d752195fafa1cf7a2b4336a9f046c7587d"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "cc3ae619d28140ab5c5614a14c2fb0c06382dd4b56faf7a6e5a18f001a2a8664"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "956a2bc885cb1d9cddf796bce1ace91ff9ea2308ac0e1252b7186803dc871b07"
 metafile = true
 
 [[files]]
