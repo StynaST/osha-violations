@@ -475,6 +475,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
+metafile = true
+
+[[files]]
 file = "mods/oritech.pw.toml"
 hash = "752ddbdc50ee751c66fe1060a59d2af7f63160711328b0c7eee82b472e8cd2da"
 metafile = true
