@@ -535,6 +535,10 @@ hash = "e8ec0a7577c9e3354b78cc613c2c5e6a9fd708a026869aba82d4ce7fc04bc2e7"
 metafile = true
 
 [[files]]
+file = "mods/sancturary-1.0.0.jar"
+hash = "530f3455979a8214809ff538779f6faa211fe08e44a2444582f8cc38c92de9f2"
+
+[[files]]
 file = "mods/schematicannon-processing-pattern.pw.toml"
 hash = "796d04c4b8e1b78e8b1093daa3403a0c15bfb82681063370960120a6729425db"
 metafile = true
