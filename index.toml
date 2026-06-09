@@ -625,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "a71321ce54906ae436ab1534b91fd30bded062cedd3afb8d365d1bba17693ef7"
+hash = "976854e8cb0473236ae4ce6b5b29bb901dc46b20d072bfed79e1f07c64b37095"
 metafile = true
 
 [[files]]
@@ -661,4 +661,9 @@ metafile = true
 [[files]]
 file = "mods/xycraft.pw.toml"
 hash = "d5791016a751ab3b6b0150effa5beb7e149637e5ac184c7913872bef58e2e87c"
+metafile = true
+
+[[files]]
+file = "watermedia.pw.toml"
+hash = "976854e8cb0473236ae4ce6b5b29bb901dc46b20d072bfed79e1f07c64b37095"
 metafile = true
