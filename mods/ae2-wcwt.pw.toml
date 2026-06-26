@@ -1,13 +1,13 @@
 name = "AE2 WCWT"
-filename = "wcwt-1.2.1.jar"
+filename = "wcwt-1.3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4inoel9g/versions/fCKdh9jn/wcwt-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/4inoel9g/versions/ruGy5l4a/wcwt-1.3.1.jar"
 hash-format = "sha512"
-hash = "22e659ce745acfaa44248043bc3684893014a0b5f6029034e49a70f377cf268571578a7a3e349bad2d83bd9f94dfa561cad63e009aab02e75115cb7ed77941dd"
+hash = "38878a63f04014399af4a3e56b97b5fca26f1e32069c76a14e0ab7804f8a91331699762d3ec1a4f8006e802bb328c15685a28712cdac3ec4f440c796b7710850"
 
 [update]
 [update.modrinth]
 mod-id = "4inoel9g"
-version = "fCKdh9jn"
+version = "ruGy5l4a"
