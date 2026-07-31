@@ -10,6 +10,11 @@ hash = "3fd67e682e6c03107722cbe2cae5a0d55f742d9ee32df8471a1d47cbaac77b52"
 metafile = true
 
 [[files]]
+file = "mods/additional-enchanted-miner.pw.toml"
+hash = "e0b185673487b3c9eadaffa9ce6d43a505643e97dd2eb85aef836b11777db362"
+metafile = true
+
+[[files]]
 file = "mods/advancedae.pw.toml"
 hash = "281593eae2857d26522a0084f7441ce8367cea75b23832d4ddbd435fa2cb02f2"
 metafile = true
@@ -296,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "076b61776e2df489b323758c97d85c5370554c044845ee2e90476a3c138779e8"
+hash = "65ac18556f91ebb4f303a39731e93e94ffa94ddc690b0fbf35346bdcb3b05919"
 metafile = true
 
 [[files]]
@@ -315,6 +320,11 @@ hash = "012e69931380a8d5b73776d255292d7d4c2cd12089273807dda56f944568eba0"
 metafile = true
 
 [[files]]
+file = "mods/iceandfire-ce.pw.toml"
+hash = "d96389e12a265e121d265e9b0516eba4dc3487c9d541c97ed57dfa4ec7b2e6ef"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
@@ -327,6 +337,16 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+metafile = true
+
+[[files]]
+file = "mods/jamd.pw.toml"
+hash = "d79e4f41f50658be56d750bc32f3be1033c35cd9597bc599c89bc3fda7a54e82"
+metafile = true
+
+[[files]]
+file = "mods/jupiter.pw.toml"
+hash = "a3d803079f7cba47f9d6bf728198f2c335a13938ef50bbdaa3f7ae2457bef58d"
 metafile = true
 
 [[files]]
@@ -539,6 +559,11 @@ file = "mods/sancturary-1.0.0.jar"
 hash = "629f10a063c0c31d9a70e21ead140a4bf9ccf1d6b2634033b69f6d7f7e6037b6"
 
 [[files]]
+file = "mods/scalable-cats-force.pw.toml"
+hash = "6b950696644caeeb9a228f769277596db89ea68ca4bbf13c7f78e9e895ec0769"
+metafile = true
+
+[[files]]
 file = "mods/schematicannon-processing-pattern.pw.toml"
 hash = "796d04c4b8e1b78e8b1093daa3403a0c15bfb82681063370960120a6729425db"
 metafile = true
@@ -606,6 +631,16 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "a43bccc1cdad8e0ce5167f379c98935f7ea8117ac0bda2218b372defbc9fc985"
+metafile = true
+
+[[files]]
+file = "mods/trenzalore.pw.toml"
+hash = "97b31515b4ea9f529c8d41770bc4e584321929b014bd5ab460905114de17492b"
+metafile = true
+
+[[files]]
+file = "mods/uranus.pw.toml"
+hash = "871c2c9e058c001c3eae91d7f6329fae068d284defb758a7c9552a919ee78f21"
 metafile = true
 
 [[files]]
